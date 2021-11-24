@@ -1,0 +1,4 @@
+django==3.2.9
+geopy==2.2.0
+geoip2==4.5.0
+django-crispy-forms
